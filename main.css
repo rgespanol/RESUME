@@ -1,0 +1,16 @@
+body
+{
+  background-color: white;
+  border: 2px solid black;
+  padding: 50px;
+  font-family: sans-serif;
+  border-radius: 20px 20px;
+  border-width: thin;
+  width: 750px;
+}
+#container{
+  padding-left: 10px;
+}
+#container2{
+  padding-left: 200px;
+}
